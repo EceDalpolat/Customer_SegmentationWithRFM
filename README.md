@@ -1,8 +1,8 @@
 # Customer_SegmentationWithRFM
-#RFM Analizi Projesi
+## RFM Analizi Projesi
 Bu proje, müşterilerin satın alma davranışlarını analiz etmek ve segmentlere ayırmak amacıyla RFM (Recency, Frequency, Monetary) analizini kullanır. RFM analizi, işletmelerin müşterilerini daha iyi tanımalarına ve daha etkili pazarlama stratejileri geliştirmelerine yardımcı olan güçlü bir tekniktir.
 
-#Proje İçeriği
+## Proje İçeriği
 Bu projede, aşağıdaki adımlar izlenerek müşteri segmentasyonu gerçekleştirilmiştir:
 
 1. Veri Hazırlığı
@@ -19,7 +19,7 @@ RFM skorlarına göre müşteriler belirli segmentlere ayrıldı. Bu segmentler 
 5. Sonuçların Analizi
 Her bir segmentin Recency, Frequency ve Monetary ortalamaları analiz edildi.
 Segmentlere göre müşterilerin davranışları ve işletmeye sağladıkları katkılar değerlendirildi.
-#Gereksinimler
+## Gereksinimler
 Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyacınız olacak:
 pandas
 numpy
